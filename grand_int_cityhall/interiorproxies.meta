@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+	<startFrom value="2718" />
+	<proxies>
+		<!-- ./input/grand_int_cityhall -->
+		<Item>ch_garage_milo</Item>
+		<Item>shmann_justice_mlo</Item>
+		<Item>hei_bh1_occl_05</Item>
+		<Item>hei_bh1_21_strm_0</Item>
+		<Item>hei_bh1_rd_critical_3</Item>
+		<Item>hei_bh1_rd_long_2</Item>
+		<Item>hei_cs1_16_strm_2</Item>
+	</proxies>
+</SInteriorOrderData>

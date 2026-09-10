@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHandlingDataMgr>
+	<HandlingData>
+		<Item type="CHandlingData">
+			<handlingName>gauntletdrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>ruinerdrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="15.500" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="1.000" />
+			<fClutchChangeRateScaleUpShift value="5.000" />
+			<fClutchChangeRateScaleDownShift value="5.000" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.000" />
+			<fTractionCurveMin value="1.450" />
+			<fTractionCurveLateral value="35.000" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.500" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.400" />
+			<fSuspensionReboundDamp value="2.200" />
+			<fSuspensionUpperLimit value="0.060" />
+			<fSuspensionLowerLimit value="-0.050" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.500" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>feltzer2drift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>elegydrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>calicodrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="-0.020" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>fusiladedrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>jester3drift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>elegy2drift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>komodadrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>eurosdrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>zr350drift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="15.500" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="1.000" />
+			<fClutchChangeRateScaleUpShift value="5.000" />
+			<fClutchChangeRateScaleDownShift value="5.000" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.000" />
+			<fTractionCurveMin value="1.450" />
+			<fTractionCurveLateral value="35.000" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.500" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.400" />
+			<fSuspensionReboundDamp value="2.200" />
+			<fSuspensionUpperLimit value="0.060" />
+			<fSuspensionLowerLimit value="-0.050" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.500" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<fPopUpLightRotation value="39.3000" />
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>rt3000drift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>jester4drift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>specterdrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+
+		<Item type="CHandlingData">
+			<handlingName>kurumadrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="15.500" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="1.000" />
+			<fClutchChangeRateScaleUpShift value="5.000" />
+			<fClutchChangeRateScaleDownShift value="5.000" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.000" />
+			<fTractionCurveMin value="1.450" />
+			<fTractionCurveLateral value="35.000" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.500" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.400" />
+			<fSuspensionReboundDamp value="2.200" />
+			<fSuspensionUpperLimit value="0.060" />
+			<fSuspensionLowerLimit value="-0.050" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.500" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>lynxdrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>rapidgtdrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>rapidgt2drift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>furoregtdrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>bansheedrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>seven70drift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>schlagendrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>growlerdrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>comet6drift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="15.500" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="1.000" />
+			<fClutchChangeRateScaleUpShift value="5.000" />
+			<fClutchChangeRateScaleDownShift value="5.000" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.000" />
+			<fTractionCurveMin value="1.450" />
+			<fTractionCurveLateral value="35.000" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.500" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.400" />
+			<fSuspensionReboundDamp value="2.200" />
+			<fSuspensionUpperLimit value="0.060" />
+			<fSuspensionLowerLimit value="-0.050" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.500" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>coquettedrift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+		<Item type="CHandlingData">
+			<handlingName>coquette4drift</handlingName>
+			<fMass value="1900.0" />
+			<fInitialDragCoeff value="11.220" />
+			<fPercentSubmerged value="85.000" />
+			<vecCentreOfMassOffset x="0.000" y="-0.150" z="0.000" />
+			<vecInertiaMultiplier x="1.200" y="1.200" z="1.600" />
+			<fDriveBiasFront value="0.000" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="1.100" />
+			<fDriveInertia value="0.400" />
+			<fClutchChangeRateScaleUpShift value="9.900" />
+			<fClutchChangeRateScaleDownShift value="9.900" />
+			<fInitialDriveMaxFlatVel value="130.0" />
+			<fBrakeForce value="4.850" />
+			<fBrakeBiasFront value="1.000" />
+			<fHandBrakeForce value="6.700" />
+			<fSteeringLock value="75.000" />
+			<fTractionCurveMax value="1.200" />
+			<fTractionCurveMin value="1.400" />
+			<fTractionCurveLateral value="25.500" />
+			<fTractionSpringDeltaMax value="0.150" />
+			<fLowSpeedTractionLossMult value="0.150" />
+			<fCamberStiffnesss value="0.000" />
+			<fTractionBiasFront value="0.450" />
+			<fTractionLossMult value="1.000" />
+			<fSuspensionForce value="2.900" />
+			<fSuspensionCompDamp value="1.700" />
+			<fSuspensionReboundDamp value="2.400" />
+			<fSuspensionUpperLimit value="0.100" />
+			<fSuspensionLowerLimit value="-0.160" />
+			<fSuspensionRaise value="0.000" />
+			<fSuspensionBiasFront value="0.450" />
+			<fAntiRollBarForce value="1.000" />
+			<fAntiRollBarBiasFront value="0.650" />
+			<fRollCentreHeightFront value="0.330" />
+			<fRollCentreHeightRear value="0.330" />
+			<fCollisionDamageMult value="0.700" />
+			<fWeaponDamageMult value="1.000" />
+			<fDeformationDamageMult value="0.700" />
+			<fEngineDamageMult value="1.500" />
+			<fPetrolTankVolume value="65.000" />
+			<fOilVolume value="5.000" />
+			<fSeatOffsetDistX value="0.000" />
+			<fSeatOffsetDistY value="0.000" />
+			<fSeatOffsetDistZ value="0.050" />
+			<nMonetaryValue value="35000" />
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>20</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL" />
+				<Item type="NULL" />
+				<Item type="NULL" />
+			</SubHandlingData>
+		</Item>
+	</HandlingData>
+</CHandlingDataMgr>

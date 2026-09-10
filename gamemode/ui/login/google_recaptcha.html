@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CAPTCHA GUI</title>
+    <script type="text/javascript" src="https://www.google.com/recaptcha/api.js"></script>
+    <script>
+    var correctCaptcha = function(response) {
+        alert(response);
+    };
+    </script>
+</head>
+<body>
+    <form method="post">
+        <label for="username" name = "captcha" required></label>
+        <div align="center" class="g-recaptcha" data-sitekey="6LfBvXsUAAAAABa04Ujo44mKaG8GAIK-OrczE_Xj" data-callback="correctCaptcha"></div>
+    </form>
+</body>
+</html>

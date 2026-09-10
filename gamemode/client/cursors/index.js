@@ -1,0 +1,79 @@
+const MAP_CURSOR_NAME_TO_TYPE = {
+  CT_POINTER: 0,
+  CT_CROSS: 1,
+  CT_HAND: 2,
+  CT_IBEAM: 3,
+  CT_WAIT: 4,
+  CT_HELP: 5,
+  CT_EASTRESIZE: 6,
+  CT_NORTHRESIZE: 7,
+  CT_NORTHEASTRESIZE: 8,
+  CT_NORTHWESTRESIZE: 9,
+  CT_SOUTHRESIZE: 10,
+  CT_SOUTHEASTRESIZE: 11,
+  CT_SOUTHWESTRESIZE: 12,
+  CT_WESTRESIZE: 13,
+  CT_NORTHSOUTHRESIZE: 14,
+  CT_EASTWESTRESIZE: 15,
+  CT_NORTHEASTSOUTHWESTRESIZE: 16,
+  CT_NORTHWESTSOUTHEASTRESIZE: 17,
+  CT_COLUMNRESIZE: 18,
+  CT_ROWRESIZE: 19,
+  CT_MIDDLEPANNING: 20,
+  CT_EASTPANNING: 21,
+  CT_NORTHPANNING: 22,
+  CT_NORTHEASTPANNING: 23,
+  CT_NORTHWESTPANNING: 24,
+  CT_SOUTHPANNING: 25,
+  CT_SOUTHEASTPANNING: 26,
+  CT_SOUTHWESTPANNING: 27,
+  CT_WESTPANNING: 28,
+  CT_MOVE: 29,
+  CT_VERTICALTEXT: 30,
+  CT_CELL: 31,
+  CT_CONTEXTMENU: 32,
+  CT_ALIAS: 33,
+  CT_PROGRESS: 34,
+  CT_NODROP: 35,
+  CT_COPY: 36,
+  CT_NONE: 37,
+  CT_NOTALLOWED: 38,
+  CT_ZOOMIN: 39,
+  CT_ZOOMOUT: 40,
+  CT_GRAB: 41,
+  CT_GRABBING: 42,
+  CT_CUSTOM: 43
+};
+const CURSORS = [{
+  type: MAP_CURSOR_NAME_TO_TYPE.CT_POINTER,
+  path: "cursors/icons/pointer.png"
+}, {
+  type: MAP_CURSOR_NAME_TO_TYPE.CT_HELP,
+  path: "cursors/icons/help.png"
+}, {
+  type: MAP_CURSOR_NAME_TO_TYPE.CT_NONE,
+  path: "cursors/icons/pointer.png",
+  offset: [10000, 10000]
+}, {
+  type: MAP_CURSOR_NAME_TO_TYPE.CT_HAND,
+  path: "cursors/icons/hand.png",
+  offset: [-10, 0]
+}, {
+  type: MAP_CURSOR_NAME_TO_TYPE.CT_IBEAM,
+  path: "cursors/icons/beam.png",
+  offset: [-24, -24]
+}, {
+  type: MAP_CURSOR_NAME_TO_TYPE.CT_MOVE,
+  path: "cursors/icons/move.png",
+  offset: [-18, -18]
+}, {
+  type: MAP_CURSOR_NAME_TO_TYPE.CT_EASTWESTRESIZE,
+  path: "cursors/icons/east-west-resize.png"
+}, {
+  type: MAP_CURSOR_NAME_TO_TYPE.CT_NORTHSOUTHRESIZE,
+  path: "cursors/icons/nort-south-resize.png"
+}, {
+  type: MAP_CURSOR_NAME_TO_TYPE.CT_NOTALLOWED,
+  path: "cursors/icons/notallowed.png",
+  offset: [-12, -12]
+}];

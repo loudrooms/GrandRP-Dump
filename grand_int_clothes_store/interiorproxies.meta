@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+	<startFrom value="2756" />
+	<proxies>
+		<!-- ./input/grand_int_clothes_store -->
+		<Item>hei_bh1_15_interior_v_clotheshi_milo_</Item>
+		<Item>hei_bh1_15_strm_0</Item>
+		<Item>shop_exterior</Item>
+		<Item>v_clothesho_milo_</Item>
+	</proxies>
+</SInteriorOrderData>

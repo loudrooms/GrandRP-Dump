@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- CODE MADE BY MAZHOR PLUXURY CHIEF ADMINISTRATOR GRAND ROLE PLAY. ALL COPYRIGHTS ARE RESERVED -->
+<WeaponShopItemArray>
+  <weaponShopItems>
+    <Item>
+      <lockHash>CU_WEP_M4A5</lockHash>
+      <nameHash>WEAPON_M4A5</nameHash>
+      <cost value="850" />
+      <ammoCost value="10" />
+      <textLabel>WT_M4A5</textLabel>
+      <weaponDesc>WTD_M4A5</weaponDesc>
+      <weaponTT>WTT_M4A5</weaponTT>
+      <weaponUppercase>WTU_M4A5</weaponUppercase>
+      <id value = "32"/>
+      <weaponComponents />
+    </Item>
+  </weaponShopItems>
+</WeaponShopItemArray>

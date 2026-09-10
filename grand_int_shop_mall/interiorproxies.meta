@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+	<startFrom value="2411" />
+	<proxies>
+		<!-- ./input/grand_int_shop_mall -->
+		<Item>center_mlo</Item>
+		<Item>hei_kt1_occl_03</Item>
+		<Item>hei_kt1_04</Item>
+		<Item>hei_kt1_04_strm_0</Item>
+		<Item>hei_kt1_rd</Item>
+		<Item>hei_kt1_rd_strm_2</Item>
+	</proxies>
+</SInteriorOrderData>

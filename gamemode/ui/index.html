@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Grand NUI Host</title>
+  </head>
+  <body>
+    <script>
+      console.log('[BROWSER_DBG][nui-host] boot href=' + location.href);
+    </script>
+    <script src="_bridge.js" onerror="console.error('[BROWSER_DBG][nui-host] _bridge.js FAILED')" onload="console.log('[BROWSER_DBG][nui-host] _bridge.js loaded')"></script>
+  </body>
+</html>

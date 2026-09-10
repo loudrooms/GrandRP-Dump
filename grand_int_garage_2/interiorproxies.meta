@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+	<startFrom value="2169" />
+	<proxies>
+		<!-- ./input/grand_int_garage_2 -->
+		<Item>garage_milo</Item>
+	</proxies>
+</SInteriorOrderData>

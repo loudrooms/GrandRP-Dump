@@ -1,0 +1,1289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- CODE MADE BY MAZHOR PLUXURY CHIEF ADMINISTRATOR GRAND ROLE PLAY. ALL COPYRIGHTS ARE RESERVED -->
+<CPickupDataManager>
+  <pickupData>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_M4A5</Name>
+      <Model>w_ar_m4a5</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_M4A5</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_M4A51</Name>
+      <Model>w_ar_m4a51</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_M4A51</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_M4A53</Name>
+      <Model>w_ar_m4a53</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_M4A53</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+   <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_AKMAZHOR</Name>
+      <Model>w_ar_akmazhor</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_AKMAZHOR</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+   <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_AKMAZHOR1</Name>
+      <Model>w_ar_akmazhor1</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_AKMAZHOR1</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+   <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_MAZHORBB</Name>
+      <Model>w_ar_mazhorbb</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_MAZHORBB</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+   <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_AKMAZHOR2</Name>
+      <Model>w_ar_akmazhor2</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_AKMAZHOR2</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+   <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_AK47MAZHOR</Name>
+      <Model>w_ar_akmazhor</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_AK47MAZHOR</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+   <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_AKMAZHOR3</Name>
+      <Model>w_ar_akmazhor3</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_AKMAZHOR3</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+   <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_KALASH</Name>
+      <Model>w_ar_kalash</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_KALASH</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+   <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_KALASH1</Name>
+      <Model>w_ar_kalash1</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_KALASH1</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+   <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_AKMAZHOR4</Name>
+      <Model>w_ar_akmazhor4</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_AKMAZHOR4</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+   <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_AKMAZHOR5</Name>
+      <Model>w_ar_akmazhor5</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_AKMAZHOR5</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_REVMAZHOR</Name>
+      <Model>w_pi_revmazhor</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_REVMAZHOR</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_REVBLESS</Name>
+      <Model>w_pi_revbless</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_REVBLESS</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_REVDRUG</Name>
+      <Model>w_pi_revdrug</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_REVDRUG</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_REVPURPDEAG</Name>
+      <Model>w_pi_revdrug</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_REVPURPDEAG</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_REVSUNSETGL</Name>
+      <Model>w_pi_revdrug</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_REVSUNSETGL</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_CZMULT</Name>
+      <Model>w_pi_czmult</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_CZMULT</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_DRAGONDEAG</Name>
+      <Model>w_pi_dragondeag</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_DRAGONDEAG</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_DEAGMAD</Name>
+      <Model>w_pi_deagmad</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_DEAGMAD</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_REVSAD</Name>
+      <Model>w_pi_revsad</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_REVSAD</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_USPSMILE</Name>
+      <Model>w_pi_uspsmile</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_USPSMILE</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_DEAGGRAD</Name>
+      <Model>w_pi_deaggrad</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_DEAGGRAD</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_SAIGA</Name>
+      <Model>w_sg_saiga</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_SHOTGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_SAIGA</Item>
+        <Item>REWARD_AMMO_HEAVYSHOTGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_SAIGA1</Name>
+      <Model>w_sg_saiga1</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_SHOTGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_SAIGA1</Item>
+        <Item>REWARD_AMMO_HEAVYSHOTGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_SAIGA2</Name>
+      <Model>w_sg_saiga2</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_SHOTGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_SAIGA2</Item>
+        <Item>REWARD_AMMO_HEAVYSHOTGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_SAIGA3</Name>
+      <Model>w_sg_saiga3</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_SHOTGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_SAIGA3</Item>
+        <Item>REWARD_AMMO_HEAVYSHOTGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_PDW1</Name>
+      <Model>W_SB_PDW1</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+		<Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_PDW1</Item>
+        <Item>REWARD_AMMO_COMBATPDW</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_PDW2</Name>
+      <Model>W_SB_PDW2</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+		<Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_PDW2</Item>
+        <Item>REWARD_AMMO_COMBATPDW</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_PDW3</Name>
+      <Model>W_SB_PDW3</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+		<Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_PDW3</Item>
+        <Item>REWARD_AMMO_COMBATPDW</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_PDW4</Name>
+      <Model>W_SB_PDW4</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+		<Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_PDW4</Item>
+        <Item>REWARD_AMMO_COMBATPDW</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_PDW5</Name>
+      <Model>W_SB_PDW5</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+		<Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_PDW5</Item>
+        <Item>REWARD_AMMO_COMBATPDW</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_HWKALASH</Name>
+      <Model>w_ar_hwkalash</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_HWKALASH</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_HWKALASH2</Name>
+      <Model>w_ar_hwkalash2</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_HWKALASH2</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_HWKALASH3</Name>
+      <Model>w_ar_hwkalash3</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_HWKALASH3</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_HWKALASH4</Name>
+      <Model>w_ar_hwkalash4</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_HWKALASH4</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_HWCARB</Name>
+      <Model>w_ar_m4a5</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_M4A5</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_HWCARB2</Name>
+      <Model>w_ar_m4a5</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_M4A5</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_HWCARB3</Name>
+      <Model>w_ar_m4a5</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_M4A5</Item>
+        <Item>REWARD_AMMO_RIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+   </pickupData>
+  <actionData/>
+  <rewardData>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_M4A5</Name>
+      <WeaponRef>WEAPON_M4A5</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardAmmo">
+      <Name>REWARD_AMMO_RIFLE</Name>
+      <AmmoRef>AMMO_RIFLE</AmmoRef>
+      <Amount value="30" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_M4A51</Name>
+      <WeaponRef>WEAPON_MA4A51</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_M4A53</Name>
+      <WeaponRef>WEAPON_MA4A53</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_AKMAZHOR</Name>
+      <WeaponRef>WEAPON_AKMAZHOR</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_AKMAZHOR1</Name>
+      <WeaponRef>WEAPON_AKMAZHOR1</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_MAZHORBB</Name>
+      <WeaponRef>WEAPON_MAZHORBB</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_AKMAZHOR2</Name>
+      <WeaponRef>WEAPON_AKMAZHOR2</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_AK47MAZHOR</Name>
+      <WeaponRef>WEAPON_AK47MAZHOR</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_AKMAZHOR3</Name>
+      <WeaponRef>WEAPON_AKMAZHOR3</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_KALASH</Name>
+      <WeaponRef>WEAPON_KALASH</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_KALASH1</Name>
+      <WeaponRef>WEAPON_KALASH1</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_AKMAZHOR4</Name>
+      <WeaponRef>WEAPON_AKMAZHOR4</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_AKMAZHOR5</Name>
+      <WeaponRef>WEAPON_AKMAZHOR5</WeaponRef>
+      <Equip value="false" />
+    </Item>
+	<Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_REVOLVER</Name>
+      <WeaponRef>WEAPON_REVOLVER</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardAmmo">
+      <Name>REWARD_AMMO_REVOLVER</Name>
+      <AmmoRef>AMMO_PISTOL</AmmoRef>
+      <Amount value="6" />
+    </Item>
+  </rewardData>
+</CPickupDataManager>

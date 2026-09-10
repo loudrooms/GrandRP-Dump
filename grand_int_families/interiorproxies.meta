@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+	<startFrom value="2377" />
+	<proxies>
+		<!-- ./input/grand_int_families -->
+		<Item>grand_families_milo_</Item>
+		<Item>lr_sc1_17_strm_1</Item>
+	</proxies>
+</SInteriorOrderData>

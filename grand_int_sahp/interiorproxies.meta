@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+	<startFrom value="2329" />
+	<proxies>
+		<!-- ./input/grand_int_sahp -->
+		<Item>hei_cs1_16_interior_v_sheriff2_milo_</Item>
+		<Item>sahp_draft_lodinterior_lod</Item>
+		<Item>sahp_draft_milo</Item>
+		<Item>sahp_gate</Item>
+		<Item>cs1_occl_09</Item>
+		<Item>cs1_16_sheriff_cap</Item>
+	</proxies>
+</SInteriorOrderData>

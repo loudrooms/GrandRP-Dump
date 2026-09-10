@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+	<startFrom value="2508" />
+	<proxies>
+		<!-- ./input/grand_int_hospital_1 -->
+		<Item>grand_hospital</Item>
+		<Item>grand_mourge</Item>
+	</proxies>
+</SInteriorOrderData>

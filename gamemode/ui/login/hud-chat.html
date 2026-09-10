@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+
+<head>
+	<meta charset="UTF-8" />
+	<title>Login</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link href="fonts/akrobat/akrobat.css" rel="stylesheet">
+	<link href="css/animate.css" rel="stylesheet">
+	<link href="css/reset.css" rel="stylesheet">
+	<link href="css/style-chat.css?v=1.5" rel="stylesheet">
+	<link href="css/responsive.css" rel="stylesheet">
+</head>
+
+
+<body>
+	<section class="hud-chat">
+		<i class = "shadow-chat"></i>
+		<div class="main-chat-wrap" id="chat">
+			<div class="chat-posts height30">
+
+			</div>
+			<div class="chat-hidden" style="display: none">
+				<div class="main-chat-enter">
+					<input name="chatenter" class="connect-radio" type="radio" checked value="chat-rp" id="chat-rp">
+					<label for="chat-rp">RP</label>
+					<input name="chatenter" class="connect-radio" type="radio" value="chat-non-rp" id="chat-non-rp">
+					<label for="chat-non-rp">NON-RP</label>
+					<input name="chatenter" class="connect-radio" type="radio" value="racion" id = "racionid">
+					<label style="display: none" id="racion" for="racionid">Рация</label>
+					<input name="chatenter" class="connect-radio" type="radio" value="nonrpracionid" id = "nonracion">
+					<label style="display: none" id="nonrpracionid" for="nonracion">NON-RP Рация</label>
+					<input name="chatenter" class="connect-radio" type="radio" value="gos" id = "gosid">
+					<label style="display: none" id="gos" for="gosid">Государственный</label>
+					<input name="chatenter" class="connect-radio" type="radio" value="departament" id = "departamentid">
+					<label style="display: none" id="departament" for="departamentid">Департамент</label>
+					<input name="chatenter" class="connect-radio" type="radio" value="efir" id = "efirid">
+					<label style="display: none" id="efir" for="efirid">Эфир</label>
+					<input name="chatenter" class="connect-radio" type="radio" value="megaphone" id = "megaphoneid">
+					<label style="display: none" id="megaphone" for="megaphoneid">Мегафон</label>
+					<input name="chatenter" class="connect-radio" type="radio" value="famchat" id = "famchatid">
+					<label style="display: none" id="famchat" for="famchatid">Чат семьи</label>
+					<input name="chatenter" class="connect-radio" type="radio" value="vipchat" id = "vipchatid">
+					<label style="display: none" id="vipchat" for="vipchatid">Prime Chat</label>
+					<input name="chatenter" class="connect-radio" type="radio" value="adminchat" id = "adminchatid">
+					<label style="display: none" id="adminchat" for="adminchatid">Админ</label>
+				</div>
+				<div class="chat-hud-wrap posrev">
+					<input type="text" placeholder="Сообщение..." class="chat-hud-input" onkeydown="if(event.keyCode===9){var v=this.value,s=this.selectionStart,e=this.selectionEnd;this.value=v.substring(0, s)+''+v.substring(e);this.selectionStart=this.selectionEnd=s+1;return false;}" autofocus>
+				</div>
+				<div class = "chat-hud-action">
+                    <div class = "chat-actions-hidden" style = "display: flex;">
+                        <input name="action" class="connect-radio radio-action" type="radio" value="chat-me" id="chat-me">
+                        <label for="chat-me">me</label>
+                        
+                        <input name="action" class="connect-radio radio-action" type="radio" value="chat-try" id="chat-try">
+                        <label for="chat-try">try</label>
+                        
+                        <input name="action" class="connect-radio radio-action" type="radio" value="chat-do" id="chat-do">
+                        <label for="chat-do">do</label>
+
+                        <input name="action" class="connect-radio radio-action" type="radio" value="chat-todo" id="chat-todo">
+                        <label for="chat-todo">todo</label>
+                    </div>
+                </div>
+			</div>
+		</div>
+	</section>
+    <script src="https://cfx-nui-ragemp-fivem-bridge/ui/_bridge.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/chat.js?150"></script>
+	<script>
+		var minimumWidth = 1920;
+        var minimumHeigh = 1080;
+		var lastChecked = null;
+        window.onload = function(){
+            changeSizeWidth();
+            $(window).resize(changeSizeWidth);
+        }
+        function changeSizeWidth() 
+        {
+            
+            var zoomCountOne = $(window).width() / minimumWidth;
+            var zoomCountTwo = $(window).height() / minimumHeigh;
+            
+            if(zoomCountOne < zoomCountTwo) 
+            {
+                $('.main-chat-wrap').css('zoom', zoomCountOne);
+            }
+            else {
+                $('.main-chat-wrap').css('zoom', zoomCountTwo);
+            }
+        }
+		function ChangeHeight(value){
+			if(value == 1)$('.chat-posts').attr('class','chat-posts height30');
+			else if(value == 2)$('.chat-posts').attr('class','chat-posts height40');
+			else if(value == 3)$('.chat-posts').attr('class','chat-posts height50');
+			else if(value == 4)$('.chat-posts').attr('class','chat-posts height60');
+			else if(value == 5)$('.chat-posts').attr('class','chat-posts height70');
+		}
+		function TranslateChat(lang){
+			if(lang != 'ru'){
+				$('#racion').text('Radio');
+				$('#nonrpracionid').text('NON-RP Radio');
+				$('#gos').text('GOV');
+				$('#departament').text('Department');
+				$('#efir').text('Ether');
+				$('#megaphone').text('Megafon');
+				$('#famchat').text('Family');
+				$('#vipchat').text('Prime Chat');
+				$('#main-action').text('Actions');
+				$('#adminchat').text('Admin');
+				$('.chat-hud-input').attr('placeholder', 'Message...');
+			}
+			else if(lang == 'ru'){
+				$('#racion').text('Рация');
+				$('#nonrpracionid').text('NON-RP Рация');
+				$('#gos').text('Государственный');
+				$('#departament').text('Департамент');
+				$('#efir').text('Эфир');
+				$('#megaphone').text('Мегафон');
+				$('#famchat').text('Чат семьи');
+				$('#vipchat').text('Прайм Чат');
+				$('#main-action').text('Отыгровка');
+				$('#adminchat').text('Админ');
+				$('.chat-hud-input').attr('placeholder', 'Сообщение...');
+			}
+		}
+		$('.radio-action').on('click', function() {
+			if (lastChecked && lastChecked[0] === this) {
+				$(this).prop('checked', false);
+				lastChecked = null;
+			} else {
+				lastChecked = $(this);
+			}
+		});
+        $('.chat-hud-input').on('input', function() {
+			// Обработка начала набора текста
+			if (!chat.isTyping && $('.chat-hud-input').val().length > 0) {
+				chat.isTyping = true;
+				class_mp.Client_SyncTypingInChat(true);
+			}
+			
+			// Сброс таймера окончания набора
+			if (chat.typingTimer) {
+				clearTimeout(chat.typingTimer);
+				chat.typingTimer = null;
+			}
+			
+			// Установка нового таймера для определения окончания набора (1 секунда после последнего нажатия)
+			if ($('.chat-hud-input').val().length > 0) {
+				chat.typingTimer = setTimeout(function() {
+					chat.typingTimer = null;
+
+					if (chat.isTyping) {
+						chat.isTyping = false;
+						class_mp.Client_SyncTypingInChat(false);
+					}
+				}, 4000);
+			} else {
+				// Если поле пустое, сразу отправляем false
+				if (chat.isTyping) {
+					chat.isTyping = false;
+					class_mp.Client_SyncTypingInChat(false);
+				}
+			}
+			
+			if( $('.chat-hud-input').val().slice(0,5).search('/me ') != -1) {
+				$('.chat-hud-input').val($('.chat-hud-input').val().replace("/me ", ""));
+				$('#chat-me').prop('checked', true);
+			}
+			else if( $('.chat-hud-input').val().slice(0,5).search('/try ') != -1) {
+				$('.chat-hud-input').val($('.chat-hud-input').val().replace("/try ", ""));
+				$('#chat-try').prop('checked', true);
+				
+			}
+			else if( $('.chat-hud-input').val().slice(0,5).search('/do ') != -1) {
+				$('.chat-hud-input').val($('.chat-hud-input').val().replace("/do ", ""));
+				$('#chat-do').prop('checked', true);
+			}
+			else if( $('.chat-hud-input').val().slice(0,6).search('/todo ') != -1) {
+				$('.chat-hud-input').val($('.chat-hud-input').val().replace("/todo ", ""));
+				$('#chat-todo').prop('checked', true);
+			}
+			else if( $('.chat-hud-input').val().slice(0,6).search('/f ') != -1) {
+				$('.chat-hud-input').val($('.chat-hud-input').val().replace("/f ", ""));
+				$('#racionid').prop('checked', true);
+				//$('.chat-hud-input').val('');
+			}
+			else if( $('.chat-hud-input').val().slice(0,6).search('/fn ') != -1) {
+				$('.chat-hud-input').val($('.chat-hud-input').val().replace("/fn ", ""));
+				$('#nonracion').prop('checked', true);
+				//$('.chat-hud-input').val('');
+			}
+			else if( $('.chat-hud-input').val().slice(0,6).search('/m ') != -1) {
+				$('.chat-hud-input').val($('.chat-hud-input').val().replace("/m ", ""));
+				$('#megaphoneid').prop('checked', true);
+				//$('.chat-hud-input').val('');
+			}
+			else if( $('.chat-hud-input').val().slice(0,6).search('/fam ') != -1) {
+				$('.chat-hud-input').val($('.chat-hud-input').val().replace("/fam ", ""));
+				$('#famchatid').prop('checked', true);
+				//$('.chat-hud-input').val('');
+			}
+			else if( $('.chat-hud-input').val().slice(0,5).search('/с ') != -1) {
+				$('.chat-hud-input').val($('.chat-hud-input').val().replace("/с ", ""));
+				$('#vipchatid').prop('checked', true);
+				//$('.chat-hud-input').val('');
+			}
+			else if( $('.chat-hud-input').val().slice(0,5).search('/a ') != -1) {
+				$('.chat-hud-input').val($('.chat-hud-input').val().replace("/a ", ""));
+				$('#adminchatid').prop('checked', true);
+				//$('.chat-hud-input').val('');
+			}
+		});
+	</script>
+</body>
+
+</html>

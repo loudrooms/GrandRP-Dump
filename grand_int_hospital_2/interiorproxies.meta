@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+	<startFrom value="2493" />
+	<proxies>
+		<!-- ./input/grand_int_hospital_2 -->
+		<Item>hedwig_pillbox_a_milo</Item>
+		<Item>hedwig_pillbox_b_milo</Item>
+		<Item>hedwig_pillbox_extprops</Item>
+		<Item>hedwig_pillbox_grass</Item>
+		<Item>vw_distlodlights_small031</Item>
+		<Item>vw_lodlights_small031</Item>
+		<Item>hei_dt1_occl_07</Item>
+		<Item>hei_dt1_06</Item>
+		<Item>hei_dt1_06_long_0</Item>
+		<Item>hei_dt1_06_strm_0</Item>
+		<Item>hei_dt1_rd1_strm_4</Item>
+	</proxies>
+</SInteriorOrderData>

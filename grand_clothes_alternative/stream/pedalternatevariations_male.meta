@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CAlternateVariations>
+    <peds>
+        <Item>
+            <name>mp_m_freemode_01</name>
+            <switches>
+                <!-- ПОДМЕНА НОГ (слот 4) ПРИ ОДЕВАНИИ ТОРСА (слот 11) -->
+                
+                <!-- Вариант 1 -->
+<Item>
+    <dlcNameHash>mp_m_grand1</dlcNameHash>
+    <component value="4"/>
+    <index value="126"/>
+    <alt value="1"/>
+    <sourceAssets>
+
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="22"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="119"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="120"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="123"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="124"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="128"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="129"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="131"/></Item>
+
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="109"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="110"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="111"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="113"/></Item>
+
+        <Item><dlcNameHash>mp_m_grand4</dlcNameHash><component value="11"/><index value="123"/></Item>
+
+    </sourceAssets>
+</Item>
+
+<!-- Вариант 2 -->
+<Item>
+    <dlcNameHash>mp_m_grand1</dlcNameHash>
+    <component value="4"/>
+    <index value="126"/>
+    <alt value="2"/>
+    <sourceAssets>
+
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="49"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="51"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="65"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="67"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="118"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="220"/></Item>
+        <Item><dlcNameHash>mp_m_grand2</dlcNameHash><component value="11"/><index value="218"/></Item>
+
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="51"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="53"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="72"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="112"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="114"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="171"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="172"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="173"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="174"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="175"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="177"/></Item>
+        <Item><dlcNameHash>mp_m_grand3</dlcNameHash><component value="11"/><index value="183"/></Item>
+        
+        <Item><dlcNameHash>mp_m_grand4</dlcNameHash><component value="11"/><index value="164"/></Item>
+
+    </sourceAssets>
+</Item>
+
+                <!-- Добавьте столько блоков Item, сколько нужно пар (торс → ноги) -->
+            </switches>
+        </Item>
+    </peds>
+</CAlternateVariations>

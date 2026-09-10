@@ -1,0 +1,2456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PedDecorationCollection>
+  <bRequiredForSync value="true" />
+  <presets>
+<Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_000_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_000</txdHash>
+      <txtHash>VZ_Mod_Tattoo_000</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+<Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_000_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_000</txdHash>
+      <txtHash>VZ_Mod_Tattoo_000</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.400000" y="0.700000" />
+      <scale x="0.075000" y="0.075000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_001_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_001</txdHash>
+      <txtHash>VZ_Mod_Tattoo_001</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.400000" y="0.700000" />
+      <scale x="0.075000" y="0.075000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_001_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_001</txdHash>
+      <txtHash>VZ_Mod_Tattoo_001</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.498000" y="0.720000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_002_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_002</txdHash>
+      <txtHash>VZ_Mod_Tattoo_002</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.498000" y="0.720000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_002_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_002</txdHash>
+      <txtHash>VZ_Mod_Tattoo_002</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.600000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_003_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_003</txdHash>
+      <txtHash>VZ_Mod_Tattoo_003</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.600000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_003_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_003</txdHash>
+      <txtHash>VZ_Mod_Tattoo_003</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	    <Item>
+      <uvPos x="-0.500000" y="0.600000" />
+      <scale x="0.380000" y="0.380000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_004_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_004</txdHash>
+      <txtHash>VZ_Mod_Tattoo_004</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	    <Item>
+      <uvPos x="-0.500000" y="0.600000" />
+      <scale x="0.380000" y="0.380000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_004_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_004</txdHash>
+      <txtHash>VZ_Mod_Tattoo_004</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	    <Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_005_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_005</txdHash>
+      <txtHash>VZ_Mod_Tattoo_005</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	    <Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_005_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_005</txdHash>
+      <txtHash>VZ_Mod_Tattoo_005</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_006_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_006</txdHash>
+      <txtHash>VZ_Mod_Tattoo_006</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_006_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_006</txdHash>
+      <txtHash>VZ_Mod_Tattoo_006</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_007_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_007</txdHash>
+      <txtHash>VZ_Mod_Tattoo_007</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_007_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_007</txdHash>
+      <txtHash>VZ_Mod_Tattoo_007</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_008_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_008</txdHash>
+      <txtHash>VZ_Mod_Tattoo_008</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_008_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_008</txdHash>
+      <txtHash>VZ_Mod_Tattoo_008</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_009_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_009</txdHash>
+      <txtHash>VZ_Mod_Tattoo_009</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_009_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_009</txdHash>
+      <txtHash>VZ_Mod_Tattoo_009</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_010_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_010</txdHash>
+      <txtHash>VZ_Mod_Tattoo_010</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_010_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_010</txdHash>
+      <txtHash>VZ_Mod_Tattoo_010</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.500000" y="0.250000" />
+      <scale x="0.230000" y="0.270000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_011_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_011</txdHash>
+      <txtHash>VZ_Mod_Tattoo_011</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.500000" y="0.250000" />
+      <scale x="0.230000" y="0.270000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_011_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_011</txdHash>
+      <txtHash>VZ_Mod_Tattoo_011</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.500000" y="0.250000" />
+      <scale x="0.230000" y="0.270000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_012_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_012</txdHash>
+      <txtHash>VZ_Mod_Tattoo_012</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.500000" y="0.250000" />
+      <scale x="0.230000" y="0.270000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_012_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_012</txdHash>
+      <txtHash>VZ_Mod_Tattoo_012</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.150000" y="0.350000" />
+      <scale x="-0.150000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_013_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_013</txdHash>
+      <txtHash>VZ_Mod_Tattoo_013</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.150000" y="0.350000" />
+      <scale x="-0.150000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_013_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_013</txdHash>
+      <txtHash>VZ_Mod_Tattoo_013</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_014_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_014</txdHash>
+      <txtHash>VZ_Mod_Tattoo_014</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_014_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_014</txdHash>
+      <txtHash>VZ_Mod_Tattoo_014</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_015_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_015</txdHash>
+      <txtHash>VZ_Mod_Tattoo_015</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_015_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_015</txdHash>
+      <txtHash>VZ_Mod_Tattoo_015</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_016_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_016</txdHash>
+      <txtHash>VZ_Mod_Tattoo_016</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.224000" y="0.520000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_016_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_016</txdHash>
+      <txtHash>VZ_Mod_Tattoo_016</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_017_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_017</txdHash>
+      <txtHash>VZ_Mod_Tattoo_017</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_017_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_017</txdHash>
+      <txtHash>VZ_Mod_Tattoo_017</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_018_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_018</txdHash>
+      <txtHash>VZ_Mod_Tattoo_018</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_018_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_018</txdHash>
+      <txtHash>VZ_Mod_Tattoo_018</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_019_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_019</txdHash>
+      <txtHash>VZ_Mod_Tattoo_019</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_019_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_019</txdHash>
+      <txtHash>VZ_Mod_Tattoo_019</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_020_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_020</txdHash>
+      <txtHash>VZ_Mod_Tattoo_020</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_020_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_020</txdHash>
+      <txtHash>VZ_Mod_Tattoo_020</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+			<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_021_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_021</txdHash>
+      <txtHash>VZ_Mod_Tattoo_021</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+			<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_021_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_021</txdHash>
+      <txtHash>VZ_Mod_Tattoo_021</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+				<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_022_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_022</txdHash>
+      <txtHash>VZ_Mod_Tattoo_022</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+				<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_022_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_022</txdHash>
+      <txtHash>VZ_Mod_Tattoo_022</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+				<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_023_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_023</txdHash>
+      <txtHash>VZ_Mod_Tattoo_023</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+				<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.230000" y="0.32000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_023_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_023</txdHash>
+      <txtHash>VZ_Mod_Tattoo_023</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.464000" y="0.620000" />
+      <scale x="0.230000" y="0.320000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_024_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_024</txdHash>
+      <txtHash>VZ_Mod_Tattoo_024</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.464000" y="0.620000" />
+      <scale x="0.230000" y="0.320000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_024_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_024</txdHash>
+      <txtHash>VZ_Mod_Tattoo_024</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.464000" y="0.620000" />
+      <scale x="0.230000" y="0.320000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_025_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_025</txdHash>
+      <txtHash>VZ_Mod_Tattoo_025</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.464000" y="0.620000" />
+      <scale x="0.230000" y="0.320000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_025_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_025</txdHash>
+      <txtHash>VZ_Mod_Tattoo_025</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.464000" y="0.620000" />
+      <scale x="0.230000" y="0.320000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_026_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_026</txdHash>
+      <txtHash>VZ_Mod_Tattoo_026</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.464000" y="0.620000" />
+      <scale x="0.230000" y="0.320000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_026_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_026</txdHash>
+      <txtHash>VZ_Mod_Tattoo_026</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	    <Item>
+      <uvPos x="0.730000" y="0.360000" />
+      <scale x="0.270000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_027_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_027</txdHash>
+      <txtHash>VZ_Mod_Tattoo_027</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	    <Item>
+      <uvPos x="0.730000" y="0.360000" />
+      <scale x="0.270000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_027_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_027</txdHash>
+      <txtHash>VZ_Mod_Tattoo_027</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	    <Item>
+      <uvPos x="0.730000" y="0.360000" />
+      <scale x="0.270000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_028_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_028</txdHash>
+      <txtHash>VZ_Mod_Tattoo_028</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	    <Item>
+      <uvPos x="0.730000" y="0.360000" />
+      <scale x="0.270000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_028_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_028</txdHash>
+      <txtHash>VZ_Mod_Tattoo_028</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		    <Item>
+      <uvPos x="0.730000" y="0.360000" />
+      <scale x="0.270000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_029_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_029</txdHash>
+      <txtHash>VZ_Mod_Tattoo_029</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		    <Item>
+      <uvPos x="0.730000" y="0.360000" />
+      <scale x="0.270000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_029_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_029</txdHash>
+      <txtHash>VZ_Mod_Tattoo_029</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+			    <Item>
+      <uvPos x="0.730000" y="0.360000" />
+      <scale x="0.270000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_030_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_030</txdHash>
+      <txtHash>VZ_Mod_Tattoo_030</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+			    <Item>
+      <uvPos x="0.730000" y="0.360000" />
+      <scale x="0.270000" y="0.180000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_030_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_030</txdHash>
+      <txtHash>VZ_Mod_Tattoo_030</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.390000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_031_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_031</txdHash>
+      <txtHash>VZ_Mod_Tattoo_031</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.390000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_031_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_031</txdHash>
+      <txtHash>VZ_Mod_Tattoo_031</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.390000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_032_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_032</txdHash>
+      <txtHash>VZ_Mod_Tattoo_032</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.390000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_032_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_032</txdHash>
+      <txtHash>VZ_Mod_Tattoo_032</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.150000" y="0.350000" />
+      <scale x="-0.150000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_033_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_033</txdHash>
+      <txtHash>VZ_Mod_Tattoo_033</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.150000" y="0.350000" />
+      <scale x="-0.150000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_033_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_033</txdHash>
+      <txtHash>VZ_Mod_Tattoo_033</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_034_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_034</txdHash>
+      <txtHash>VZ_Mod_Tattoo_034</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_034_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_034</txdHash>
+      <txtHash>VZ_Mod_Tattoo_034</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="-0.350000" y="0.350000" />
+      <scale x="-0.150000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_035_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_035</txdHash>
+      <txtHash>VZ_Mod_Tattoo_035</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="-0.350000" y="0.350000" />
+      <scale x="-0.150000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_035_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_035</txdHash>
+      <txtHash>VZ_Mod_Tattoo_035</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.450000" y="0.210000" />
+      <scale x="0.070000" y="0.070000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_036_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_036</txdHash>
+      <txtHash>VZ_Mod_Tattoo_036</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.450000" y="0.210000" />
+      <scale x="0.070000" y="0.070000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_036_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_036</txdHash>
+      <txtHash>VZ_Mod_Tattoo_036</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.450000" y="0.210000" />
+      <scale x="0.135000" y="0.135000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_037_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_037</txdHash>
+      <txtHash>VZ_Mod_Tattoo_037</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.450000" y="0.210000" />
+      <scale x="0.135000" y="0.135000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_037_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_037</txdHash>
+      <txtHash>VZ_Mod_Tattoo_037</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.410000" y="0.220000" />
+      <scale x="0.050000" y="0.050000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_038_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_038</txdHash>
+      <txtHash>VZ_Mod_Tattoo_038</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.410000" y="0.220000" />
+      <scale x="0.050000" y="0.050000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_038_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_038</txdHash>
+      <txtHash>VZ_Mod_Tattoo_038</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.410000" y="0.220000" />
+      <scale x="0.050000" y="0.050000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_039_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_039</txdHash>
+      <txtHash>VZ_Mod_Tattoo_039</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.410000" y="0.220000" />
+      <scale x="0.050000" y="0.050000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_039_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_039</txdHash>
+      <txtHash>VZ_Mod_Tattoo_039</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.410000" y="0.220000" />
+      <scale x="0.050000" y="0.050000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_040_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_040</txdHash>
+      <txtHash>VZ_Mod_Tattoo_040</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.410000" y="0.220000" />
+      <scale x="0.050000" y="0.050000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_040_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_040</txdHash>
+      <txtHash>VZ_Mod_Tattoo_040</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_041_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_041</txdHash>
+      <txtHash>VZ_Mod_Tattoo_041</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_041_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_041</txdHash>
+      <txtHash>VZ_Mod_Tattoo_041</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.437000" y="0.570000" />
+      <scale x="0.380000" y="0.380000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_042_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_042</txdHash>
+      <txtHash>VZ_Mod_Tattoo_042</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.437000" y="0.570000" />
+      <scale x="0.380000" y="0.380000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_042_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_042</txdHash>
+      <txtHash>VZ_Mod_Tattoo_042</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.437000" y="0.580000" />
+      <scale x="0.380000" y="0.380000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_043_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_043</txdHash>
+      <txtHash>VZ_Mod_Tattoo_043</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.437000" y="0.580000" />
+      <scale x="0.380000" y="0.380000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_043_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_043</txdHash>
+      <txtHash>VZ_Mod_Tattoo_043</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.620000" y="0.550000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_044_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_044</txdHash>
+      <txtHash>VZ_Mod_Tattoo_044</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.620000" y="0.550000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_044_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_044</txdHash>
+      <txtHash>VZ_Mod_Tattoo_044</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+   	  <uvPos x="0.224000" y="0.520000" />
+	<scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_045_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_045</txdHash>
+      <txtHash>VZ_Mod_Tattoo_045</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+   	  <uvPos x="0.224000" y="0.520000" />
+	  <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_045_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_045</txdHash>
+      <txtHash>VZ_Mod_Tattoo_045</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.620000" y="0.550000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_046_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_046</txdHash>
+      <txtHash>VZ_Mod_Tattoo_046</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.620000" y="0.550000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_046_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_046</txdHash>
+      <txtHash>VZ_Mod_Tattoo_046</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.620000" y="0.550000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_047_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_047</txdHash>
+      <txtHash>VZ_Mod_Tattoo_047</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.620000" y="0.550000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_047_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_047</txdHash>
+      <txtHash>VZ_Mod_Tattoo_047</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.620000" y="0.550000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_048_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_048</txdHash>
+      <txtHash>VZ_Mod_Tattoo_048</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.620000" y="0.550000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_048_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_048</txdHash>
+      <txtHash>VZ_Mod_Tattoo_048</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_049_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_049</txdHash>
+      <txtHash>VZ_Mod_Tattoo_049</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_049_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_049</txdHash>
+      <txtHash>VZ_Mod_Tattoo_049</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.580000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_050_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_050</txdHash>
+      <txtHash>VZ_Mod_Tattoo_050</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.580000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_050_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_050</txdHash>
+      <txtHash>VZ_Mod_Tattoo_050</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.580000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_051_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_051</txdHash>
+      <txtHash>VZ_Mod_Tattoo_051</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.580000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_051_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_051</txdHash>
+      <txtHash>VZ_Mod_Tattoo_051</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.580000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_052_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_052</txdHash>
+      <txtHash>VZ_Mod_Tattoo_052</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.580000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_052_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_052</txdHash>
+      <txtHash>VZ_Mod_Tattoo_052</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.570000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_053_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_053</txdHash>
+      <txtHash>VZ_Mod_Tattoo_053</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.570000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_053_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_053</txdHash>
+      <txtHash>VZ_Mod_Tattoo_053</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.570000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_054_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_054</txdHash>
+      <txtHash>VZ_Mod_Tattoo_054</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.570000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_054_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_054</txdHash>
+      <txtHash>VZ_Mod_Tattoo_054</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.600000" />
+      <scale x="0.380000" y="0.380000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_055_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_055</txdHash>
+      <txtHash>VZ_Mod_Tattoo_055</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.600000" />
+      <scale x="0.380000" y="0.380000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_055_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_055</txdHash>
+      <txtHash>VZ_Mod_Tattoo_055</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.570000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_056_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_056</txdHash>
+      <txtHash>VZ_Mod_Tattoo_056</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.570000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_056_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_056</txdHash>
+      <txtHash>VZ_Mod_Tattoo_056</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.580000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_057_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_057</txdHash>
+      <txtHash>VZ_Mod_Tattoo_057</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.580000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_057_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_057</txdHash>
+      <txtHash>VZ_Mod_Tattoo_057</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.590000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_058_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_058</txdHash>
+      <txtHash>VZ_Mod_Tattoo_058</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.590000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_058_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_058</txdHash>
+      <txtHash>VZ_Mod_Tattoo_058</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.590000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_059_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_059</txdHash>
+      <txtHash>VZ_Mod_Tattoo_059</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.590000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_059_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_059</txdHash>
+      <txtHash>VZ_Mod_Tattoo_059</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.464000" y="0.620000" />
+      <scale x="0.230000" y="0.320000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_060_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_060</txdHash>
+      <txtHash>VZ_Mod_Tattoo_060</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.464000" y="0.620000" />
+      <scale x="0.230000" y="0.320000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_060_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_060</txdHash>
+      <txtHash>VZ_Mod_Tattoo_060</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_061_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_061</txdHash>
+      <txtHash>VZ_Mod_Tattoo_061</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_061_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_061</txdHash>
+      <txtHash>VZ_Mod_Tattoo_061</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_062_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_062</txdHash>
+      <txtHash>VZ_Mod_Tattoo_062</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_062_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_062</txdHash>
+      <txtHash>VZ_Mod_Tattoo_062</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.390000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_063_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_063</txdHash>
+      <txtHash>VZ_Mod_Tattoo_063</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.390000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_063_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_063</txdHash>
+      <txtHash>VZ_Mod_Tattoo_063</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.390000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_064_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_064</txdHash>
+      <txtHash>VZ_Mod_Tattoo_064</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.390000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_064_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_064</txdHash>
+      <txtHash>VZ_Mod_Tattoo_064</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.390000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_065_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_065</txdHash>
+      <txtHash>VZ_Mod_Tattoo_065</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.390000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_065_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_065</txdHash>
+      <txtHash>VZ_Mod_Tattoo_065</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.390000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_066_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_066</txdHash>
+      <txtHash>VZ_Mod_Tattoo_066</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.390000" />
+      <scale x="0.300000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_066_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_066</txdHash>
+      <txtHash>VZ_Mod_Tattoo_066</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_067_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_067</txdHash>
+      <txtHash>VZ_Mod_Tattoo_067</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_067_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_067</txdHash>
+      <txtHash>VZ_Mod_Tattoo_067</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_068_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_068</txdHash>
+      <txtHash>VZ_Mod_Tattoo_068</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.745000" y="0.420000" />
+      <scale x="0.330000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_068_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_068</txdHash>
+      <txtHash>VZ_Mod_Tattoo_068</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.570000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_069_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_069</txdHash>
+      <txtHash>VZ_Mod_Tattoo_069</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.570000" />
+      <scale x="0.450000" y="0.450000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_069_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_069</txdHash>
+      <txtHash>VZ_Mod_Tattoo_069</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.590000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_070_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_070</txdHash>
+      <txtHash>VZ_Mod_Tattoo_070</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.500000" y="0.590000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_070_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_070</txdHash>
+      <txtHash>VZ_Mod_Tattoo_070</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.280000" y="0.560000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_071_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_071</txdHash>
+      <txtHash>VZ_Mod_Tattoo_071</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.280000" y="0.560000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_071_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_071</txdHash>
+      <txtHash>VZ_Mod_Tattoo_071</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.280000" y="0.560000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_072_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_072</txdHash>
+      <txtHash>VZ_Mod_Tattoo_072</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.280000" y="0.560000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_072_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_072</txdHash>
+      <txtHash>VZ_Mod_Tattoo_072</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.330000" y="0.560000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_073_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_073</txdHash>
+      <txtHash>VZ_Mod_Tattoo_073</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.330000" y="0.560000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_073_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_073</txdHash>
+      <txtHash>VZ_Mod_Tattoo_073</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.450000" y="0.210000" />
+      <scale x="0.070000" y="0.070000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_074_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_074</txdHash>
+      <txtHash>VZ_Mod_Tattoo_074</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.450000" y="0.210000" />
+      <scale x="0.070000" y="0.070000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_074_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_074</txdHash>
+      <txtHash>VZ_Mod_Tattoo_074</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.450000" y="0.210000" />
+      <scale x="0.070000" y="0.070000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_075_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_075</txdHash>
+      <txtHash>VZ_Mod_Tattoo_075</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="-0.450000" y="0.210000" />
+      <scale x="0.070000" y="0.070000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_075_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_075</txdHash>
+      <txtHash>VZ_Mod_Tattoo_075</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.620000" y="0.550000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_076_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_076</txdHash>
+      <txtHash>VZ_Mod_Tattoo_076</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.620000" y="0.550000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_076_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_076</txdHash>
+      <txtHash>VZ_Mod_Tattoo_076</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.290000" y="0.560000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_077_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_077</txdHash>
+      <txtHash>VZ_Mod_Tattoo_077</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.290000" y="0.560000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_077_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_077</txdHash>
+      <txtHash>VZ_Mod_Tattoo_077</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.620000" y="0.550000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_078_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_078</txdHash>
+      <txtHash>VZ_Mod_Tattoo_078</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.620000" y="0.550000" />
+      <scale x="0.400000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_078_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_078</txdHash>
+      <txtHash>VZ_Mod_Tattoo_078</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.500000" y="0.250000" />
+      <scale x="0.530000" y="0.250000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_079_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_079</txdHash>
+      <txtHash>VZ_Mod_Tattoo_079</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.500000" y="0.250000" />
+      <scale x="0.530000" y="0.250000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_079_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_079</txdHash>
+      <txtHash>VZ_Mod_Tattoo_079</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.500000" y="0.250000" />
+      <scale x="0.410000" y="0.170000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_080_M</nameHash>
+      <txdHash>VZ_Mod_Tattoo_080</txdHash>
+      <txtHash>VZ_Mod_Tattoo_080</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+		<Item>
+      <uvPos x="0.500000" y="0.250000" />
+      <scale x="0.410000" y="0.170000" />
+      <rotation value="0.000000" />
+      <nameHash>VZ_Mod_Tattoo_080_F</nameHash>
+      <txdHash>VZ_Mod_Tattoo_080</txdHash>
+      <txtHash>VZ_Mod_Tattoo_080</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+  </presets>
+  <nameHash>vztattoos_overlays</nameHash>
+  <medalLocations content="vector2_array">
+    0.140000	0.070000	
+    0.370000	0.070000	
+    0.600000	0.070000	
+    0.835000	0.070000	
+    0.140000	0.150000	
+    0.370000	0.150000	
+    0.600000	0.150000	
+    0.835000	0.150000	
+    0.140000	0.230000	
+    0.370000	0.230000	
+    0.600000	0.230000	
+    0.835000	0.230000	
+    0.100000	0.700000	
+    0.300000	0.700000	
+    0.500000	0.700000	
+    0.700000	0.700000	
+  </medalLocations>
+  <medalScale x="0.240000" y="0.100000" />
+</PedDecorationCollection>

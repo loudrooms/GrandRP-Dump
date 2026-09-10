@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CAlternateVariations>
+    <peds>
+        <Item>
+            <name>mp_f_freemode_01</name>
+            <switches>
+                <!-- ПОДМЕНА НОГ (слот 4) ПРИ ОДЕВАНИИ ТОРСА (слот 11) -->
+                
+                <!-- Вариант 1 -->
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="1"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="157"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="158"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="208"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="218"/></Item>
+                        
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="37"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="57"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="122"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="123"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="129"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="130"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="132"/></Item>
+                        
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="101"/></Item>
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="102"/></Item>
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="103"/></Item>
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="104"/></Item>
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="105"/></Item>
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="106"/></Item>
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="159"/></Item>
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="160"/></Item>
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="161"/></Item>
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="162"/></Item>
+                        
+                        <Item><dlcNameHash>mp_f_grand4</dlcNameHash><component value="11"/><index value="104"/></Item>
+                        <Item><dlcNameHash>mp_f_grand4</dlcNameHash><component value="11"/><index value="105"/></Item>
+                    </sourceAssets>
+                </Item>
+
+                <!-- Вариант 2 -->
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="2"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="199"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="202"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="206"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="215"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="219"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="220"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="228"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="229"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="230"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="232"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="236"/></Item>
+                        
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="32"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="38"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="41"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="42"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="44"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="46"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="47"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="51"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="53"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="63"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="66"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="68"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="69"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="70"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="71"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="120"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="121"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="124"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="125"/></Item>
+                        
+                        <Item><dlcNameHash>mp_f_grand4</dlcNameHash><component value="11"/><index value="126"/></Item>
+                    </sourceAssets>
+                </Item>
+
+                <!-- Вариант 3 -->
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="3"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="124"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="224"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="225"/></Item>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="226"/></Item>
+                    </sourceAssets>
+                </Item>
+
+                <!-- Вариант 4 -->
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="4"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value="236"/></Item>
+                    </sourceAssets>
+                </Item>
+
+                <!-- Вариант 6 -->
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="6"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="56"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="64"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="126"/></Item>
+                        <Item><dlcNameHash>mp_f_grand2</dlcNameHash><component value="11"/><index value="127"/></Item>
+                        
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="53"/></Item>
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="69"/></Item>
+                        
+                        <Item><dlcNameHash>mp_f_grand4</dlcNameHash><component value="11"/><index value="147"/></Item>
+                    </sourceAssets>
+                </Item>
+
+                <!-- Вариант 7 -->
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="7"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="8"/><index value="18"/></Item>
+                    </sourceAssets>
+                </Item>
+
+                <!-- Вариант 8 -->
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="8"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand3</dlcNameHash><component value="11"/><index value="46"/></Item>
+                    </sourceAssets>
+                </Item>
+
+                <!-- Вариант 9 -->
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="9"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand4</dlcNameHash><component value="11"/><index value="114"/></Item>
+                    </sourceAssets>
+                </Item>
+
+                <!-- Варианты 10-19 (с пустыми индексами, как в оригинале) -->
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="10"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value=""/></Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="11"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value=""/></Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="12"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value=""/></Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="13"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value=""/></Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="14"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value=""/></Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="15"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value=""/></Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="16"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value=""/></Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="17"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value=""/></Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="18"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value=""/></Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+                    <dlcNameHash>mp_f_grand1</dlcNameHash>
+                    <component value="4"/>
+                    <index value="88"/>
+                    <alt value="19"/>
+                    <sourceAssets>
+                        <Item><dlcNameHash>mp_f_grand1</dlcNameHash><component value="11"/><index value=""/></Item>
+                    </sourceAssets>
+                </Item>
+
+            </switches>
+        </Item>
+    </peds>
+</CAlternateVariations>

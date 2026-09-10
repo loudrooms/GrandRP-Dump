@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+	<startFrom value="2268" />
+	<proxies>
+		<!-- ./input/grand_int_fib -->
+		<Item>grand_fib_exterior</Item>
+		<Item>grand_fib_ll_distantlights</Item>
+		<Item>grand_fib_ll_lodlights</Item>
+		<Item>grand_fib2_milo_</Item>
+		<Item>grand_fib_milo_</Item>
+		<Item>vw_distlodlights_medium002</Item>
+		<Item>vw_distlodlights_small003</Item>
+		<Item>vw_lodlights_medium002</Item>
+		<Item>vw_lodlights_small003</Item>
+		<Item>hei_ch3_occl_01</Item>
+		<Item>hei_ch3_03_strm_3</Item>
+		<Item>hei_ch3_04_critical_0</Item>
+		<Item>hei_ch3_04_long_0</Item>
+		<Item>hei_ch3_04_strm_0</Item>
+		<Item>hei_ch3_04_strm_1</Item>
+		<Item>hei_ch3_04_strm_2</Item>
+		<Item>hei_ch3_04_strm_5</Item>
+		<Item>hei_ch3_10_strm_5</Item>
+	</proxies>
+</SInteriorOrderData>
